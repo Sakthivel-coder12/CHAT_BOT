@@ -1,0 +1,36 @@
+{
+  "domain": "fintech",
+  "company": "Sakthivel",
+  "faqs": [
+    {
+      "category": "Loans",
+      "question": "What is the interest rate for a personal loan?",
+      "answer": "Interest rates for personal loans vary based on your credit score, income, and repayment history. At Navi, rates are competitive and calculated based on your eligibility."
+    },
+    {
+      "category": "Loans",
+      "question": "How do I apply for a home loan?",
+      "answer": "You can apply for a home loan through the Navi app. Submit your KYC documents, income proof, and property details. Approval is typically within 24-48 hours."
+    },
+    {
+      "category": "Insurance",
+      "question": "What does health insurance cover?",
+      "answer": "Health insurance covers hospitalization costs, pre and post hospitalization expenses, daycare procedures, and sometimes OPD costs. Coverage depends on your policy."
+    },
+    {
+      "category": "Investments",
+      "question": "What is a mutual fund?",
+      "answer": "A mutual fund is a pool of money collected from multiple investors, managed by professional fund managers, invested in stocks, bonds, or other securities."
+    },
+    {
+      "category": "Payments",
+      "question": "What is UPI and how does it work?",
+      "answer": "UPI (Unified Payments Interface) is a real-time payment system by NPCI. It lets you transfer money instantly between bank accounts using a VPA (Virtual Payment Address) on your smartphone."
+    },
+    {
+      "category": "Investments",
+      "question": "Is digital gold a safe investment?",
+      "answer": "Digital gold is backed by physical gold stored in secure vaults. It is regulated and audited. However, like all investments, it carries market risk based on gold price fluctuations."
+    }
+  ]
+}
